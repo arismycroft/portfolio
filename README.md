@@ -14,7 +14,7 @@ npm run dev                  # http://localhost:3000
 ## Struktur
 
 ```
-public/images/        gambar (SEMUA masih placeholder, lihat di bawah)
+public/images/        gambar hasil ekspor Figma (foto, thumbnail project)
 src/app/              layout, page, globals.css (design tokens), api/contact
 src/components/ui/    Button, Dialog (gaya shadcn + Radix)
 src/components/shared reveal, section-header, starburst, checker-decor, dll
